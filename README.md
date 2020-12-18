@@ -8,3 +8,5 @@ After each episode child is asked questions about storie's content. I'm using sp
 
 In the project I've implemented storytelling and questions-asking engine. \
 Also, I've done statistics tracking so that parents can watch and track child's progress, inspect his falures and achivements.
+
+![](Readme/title-page.png)
